@@ -1,0 +1,13 @@
+{
+  "title": "Material demo",
+  "description":
+    "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/demos/app-bar/MenuAppBar.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "immutable": "3.8.2",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
